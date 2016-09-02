@@ -1,0 +1,30 @@
+//
+//  WorkPlacePrefixHeader.pch
+//  WorkPlace
+//
+//  Created by KING_KE on 16/8/22.
+//  Copyright © 2016年 KING_KE. All rights reserved.
+//
+
+#ifndef WorkPlacePrefixHeader_pch
+#define WorkPlacePrefixHeader_pch
+
+#import "Define.h"
+
+#import "KKFactory.h"
+
+#import "UIView+Frame.h"
+
+#import "KKTabViewCell.h"
+
+#import "KKRequest.h"
+
+#import "KKRequestTool.h"
+
+
+#import <UIKit/UIKit.h>
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* WorkPlacePrefixHeader_pch */
